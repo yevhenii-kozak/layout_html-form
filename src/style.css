@@ -3,10 +3,10 @@
   margin-bottom: 20px;
 }
 
-input {
+.label {
   margin-bottom: 10px;
 }
 
 .last {
-  margin: 0;
+  margin-bottom: 0;
 }
